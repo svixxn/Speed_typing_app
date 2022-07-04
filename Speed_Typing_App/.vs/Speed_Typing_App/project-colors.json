@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb3ff358-c38d-4ea9-8056-d759d57bac9c": {
+      "ProjectGuid": "bb3ff358-c38d-4ea9-8056-d759d57bac9c",
+      "DisplayName": "Speed_Typing_App",
+      "ColorIndex": 0
+    },
+    "d5f01d00-f7c4-4a32-9a5d-dfea8d339d21": {
+      "ProjectGuid": "d5f01d00-f7c4-4a32-9a5d-dfea8d339d21",
+      "DisplayName": "WinFormsLibrary1",
+      "ColorIndex": 1
+    },
+    "bc406463-40e6-4f3f-be1c-76849c329102": {
+      "ProjectGuid": "bc406463-40e6-4f3f-be1c-76849c329102",
+      "DisplayName": "WinFormsLibrary2",
+      "ColorIndex": 2
+    },
+    "ff26dfe8-fb52-41b9-9042-32974e8ceb3d": {
+      "ProjectGuid": "ff26dfe8-fb52-41b9-9042-32974e8ceb3d",
+      "DisplayName": "WinFormsLibrary1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
